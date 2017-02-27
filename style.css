@@ -1,0 +1,30 @@
+#page1 {
+  background-color: lightgreen;
+  font-family: "sans-serif", Arial, Verdana;
+  font-size: 150%;
+  h1 {
+    color: red;
+    li {
+      color: blue;
+    }
+  }
+}
+#page2 {
+  background-color: lightgrey;
+  font-family: "sans-serif", Arial, Verdana;
+  font-size: 150%;
+  div {
+    font-size: 200%;
+    color: green;
+  }
+}
+#page3 {
+  background-color: violet;
+  font-family: "sans serif", Arial, Verdana;
+  font-size: 150%;
+}
+#page4 {
+  background-color: lightskyblue;
+  font-family: "sans-serif", Arial, Verdana;
+  font-size: 150%;
+}
