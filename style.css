@@ -2,21 +2,15 @@
   background-color: lightgreen;
   font-family: "sans-serif", Arial, Verdana;
   font-size: 150%;
-  h1 {
-    color: red;
-    li {
-      color: blue;
-    }
+  background-image: url(https://scontent-lax3-1.xx.fbcdn.net/v/t1.0-1/c170.50.621.621/s160x160/428765_2852999882946_1448228289_n.jpg?oh=c5f9fdb169be483107a90cd642abf020&oe=593AA974);
+  background-repeat: no-repeat;
+  background-position: top right;
+  /* Picture taken from Facebook */
   }
-}
 #page2 {
   background-color: lightgrey;
   font-family: "sans-serif", Arial, Verdana;
-  font-size: 150%;
-  div {
-    font-size: 200%;
-    color: green;
-  }
+  font-size: 200%;
 }
 #page3 {
   background-color: violet;
@@ -27,4 +21,13 @@
   background-color: lightskyblue;
   font-family: "sans-serif", Arial, Verdana;
   font-size: 150%;
+}
+.nav-tab {
+  text-align: left;
+}
+.navigation {
+  text-decoration: none;
+}
+.list {
+  color: green;
 }
